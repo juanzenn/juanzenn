@@ -11,7 +11,7 @@ My name is Juan, I'm a student of USB in Venezuela. On the side, I'm learning we
 Currently I'm workin my way in design and front-end development. Using basic tools like HTML/CSS, TailwindCSS and SASS. I'm looking forward to learn how to program in React.js and create new and fun apps to share!
 
 ### Current
-- Not a current project on my on yet... Just doing a bunch of work with creating templates in HTML. 
+- WindWolf UI : Components made with Tailwind CSS for easy use and fast coding
 
 
 
