@@ -8,10 +8,11 @@ My name is Juan, I'm a student of USB in Venezuela. On the side, I'm learning we
 - 🎞️ A lot of Netflix...
 
 ### Learning
-Currently I'm workin my way in design and front-end development. Using basic tools like HTML/CSS, TailwindCSS and SASS. I'm looking forward to learn how to program in React.js and create new and fun apps to share!
+Working in my flow of work. Every new tech I can come by and start learning it is really fun. My first big personal project started a week ago, I have a lot of progress and thinking in having more and more progress in the next week! 
+Coding is FUN!
 
 ### Current
-- WindWolf UI : Components made with Tailwind CSS for easy use and fast coding
+- Travel Friend: I am working in a fullstack web Travel app. Using Bulma for the frontend, Node.js, Handlebars and Firebase for the backend.
 
 
 
