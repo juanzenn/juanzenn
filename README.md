@@ -12,7 +12,7 @@ Working in my flow of work. Every new tech I can come by and start learning it i
 Coding is FUN!
 
 ### Current
-- Travel Friend: I am working in a fullstack web Travel app. Using Bulma for the frontend, Node.js, Handlebars and Firebase for the backend.
+- Shopify Liquid Themes and CMS (like Contentful) integrations with NextJS and React
 
 
 
