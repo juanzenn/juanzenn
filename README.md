@@ -12,7 +12,7 @@ Working in my flow of work. Every new tech I can come by and start learning it i
 Coding is FUN!
 
 ### Current
-- Shopify Liquid Themes and CMS (like Contentful) integrations with NextJS and React
+- Working to get better at NextJS and Tailwind
 
 
 
