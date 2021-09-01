@@ -5,6 +5,9 @@ I want to make a community where new developers can be themselves and learn with
 
 I write about JavaScript topics and how you can become **a better developer**.
 
+## What do I hack? 💻
+I create frontend focus web applications using React (with Next.js) and Tailwind. I do some backend development, too, but most of the times I work with Headless CMS like Prismic and Backend as a Service like Supabse or Firebase.
+
 ## My life style ⛰️
 I love mountain biking, and the outdoors. I'm an active person and don't enjoy a lot of planning. I like to go by feeling, but also set up realistic goals in the short and mid term. 
 
