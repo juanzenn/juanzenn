@@ -1,32 +1,22 @@
-### Hey There!
-My name is Juan, I'm a student of USB in Venezuela. On the side, I'm learning web development, I find it amazing. 
+# Hello, and welcome! 👋🏼
+My name is Juan, I'm a JavaScript developer that focus on the frontend side of things. I found that one of my passions is teaching others, and helping people out.
 
-### Hobbies
-- 🍞 Baker/Bread lover
-- 🚵🏻 Mountain Bike
-- 🕹️ Videogames
-- 🎞️ A lot of Netflix...
+I want to make a community where new developers can be themselves and learn without problems. Coding should be a safe space for everyone.
 
-### Learning
-Working in my flow of work. Every new tech I can come by and start learning it is really fun. My first big personal project started a week ago, I have a lot of progress and thinking in having more and more progress in the next week! 
-Coding is FUN!
+I write about JavaScript topics and how you can become **a better developer**.
 
-### Current
-- Working to get better at NextJS and Tailwind
+## My life style ⛰️
+I love mountain biking, and the outdoors. I'm an active person and don't enjoy a lot of planning. I like to go by feeling, but also set up realistic goals in the short and mid term. 
 
+I also love cooking and baking some really good bread. 
 
+Long term, my goal is found a MTB academy and a restaurant. One interest I have is investment in real state, but the future Juan can deal with that.
 
-<!--
-**juanzenn/juanzenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me 
+I spent a lot of time on Twitter, writing threads and interacting with others. Follow me there if you want to know what what I been up to.
 
-Here are some ideas to get you started:
+You can support me and my content through my [BuyMeaCoffee account](https://www.buymeacoffee.com/juanzen).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 [My website](https://juanalvarez.vercel.com)   
+🐦 [Twitter](https://twitter.com/Juanzenweb)  
+📧 Send me an E-mail - juanandres140299@gmail.com
