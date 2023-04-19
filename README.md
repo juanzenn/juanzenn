@@ -4,4 +4,4 @@ I'm Juan, full-stack web developer - I'm working remotly since 2021. I love Type
 
 💻 [My website](https://juanalvarez.vercel.com)   
 🐦 [Twitter](https://twitter.com/Juanzenweb)  
-📧 Send me an E-mail - juanandres140299@gmail.com
+📧 [Mail](juanandres140299@gmail.com)
